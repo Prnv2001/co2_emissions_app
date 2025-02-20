@@ -48,5 +48,4 @@ Ensure you have Python installed (recommended version 3.7 or later). You can ins
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+
