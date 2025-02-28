@@ -4,23 +4,23 @@ This repository contains a Streamlit application.
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
+### Clone the repository:
+```sh
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
 
-2. Create and activate a virtual environment (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate     # On Windows
-   ```
+### Create and activate a virtual environment (optional but recommended):
+```sh
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate     # On Windows
+```
 
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
+### Install the required dependencies:
+```sh
+pip install -r requirements.txt
+```
 
 ## Running the Application
 
@@ -30,8 +30,12 @@ This repository contains a Streamlit application.
    ```sh
    streamlit run app.py
    ```
+4. The app should now be running in your default web browser.
 
-The app should now be running in your default web browser.
+## Public Deployment
+
+This application has been publicly deployed and can be accessed at:
+[CO2 Emissions Streamlit App](https://prnv2001-co2-emissions-app-app-p0i9za.streamlit.app/)
 
 ## Folder Structure
 ```
@@ -47,5 +51,4 @@ Ensure you have Python installed (recommended version 3.7 or later). You can ins
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request.
-
 
